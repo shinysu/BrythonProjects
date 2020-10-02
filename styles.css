@@ -1,8 +1,8 @@
 *{
     font-family: sans-serif;
     font-weight: normal;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 8%;
+    margin-right: 8%;
     font-size: 1em;
 
 }
@@ -19,7 +19,7 @@
     margin-top: 3vh;
 }
 
-#innerdiv{
+#container{
     background-color: #ccc;
 }
 
@@ -35,6 +35,8 @@
   max-width: 60%;
   padding: 5px;
   margin-left: 20%;
+  height:60vh;
+  overflow-y: auto;
 }
 
 .todo {
