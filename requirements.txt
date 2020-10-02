@@ -1,0 +1,7 @@
+browser==0.0.1
+cssselect==1.0.3
+EasyProcess==0.3
+lxml==4.5.0
+PyVirtualDisplay==0.2.4
+selenium==3.141.0
+urllib3==1.25.10
